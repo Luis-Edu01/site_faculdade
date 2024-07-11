@@ -44,7 +44,7 @@ a#item01{
     font-family: 'Times New Roman', Times, serif;
     color:#e2e606;
     width: 115px;
-    padding-left: 0;
+    padding-left: 0%;
     margin-left: 1.5%;
     font-size: 1.3em;
     text-decoration: none;
@@ -101,7 +101,7 @@ p#item07{
     color: #ffffff;
     font-size: 1.2em;
     width: 26%;
-    margin: 0 auto;
+    margin: auto;
     font-weight: bold;
     font-family: 'PT Sans', Helvetica, Arial, Lucida, sans-serif;
     padding-top: 2%;
@@ -117,7 +117,7 @@ h1#item08{
     font-size: 1.2em;
     text-align: center;
     width: 50%;
-    margin: 0 auto;
+    margin: auto;
     margin-top: 5%;
     margin-bottom: 5%;
     font-weight: bold;
@@ -149,7 +149,7 @@ p#item10{
     text-align: center;
     padding-top: 0.5%;
     margin-top: 3px;
-    margin-bottom: 0 auto;
+    margin-bottom: auto;
     margin: auto;
     padding-left: 5%;
     padding-right: 5%;
@@ -162,8 +162,8 @@ p#item10{
 }
 body#item11{
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     display: flex;
     flex-direction: column;
     align-items: center;
